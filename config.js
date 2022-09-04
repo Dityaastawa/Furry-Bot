@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6285295374964', 'Maxxy Botz', true], 
-['6285380166282', 'Kahfi-XD', true] 
+['62882006485504', 'Farhan Botz', true], 
+['62882006485504', 'Farhan-GANZ', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,14 +34,14 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
-global.linkgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
-global.linkig = 'https://www.instagram.com/kahfixd01'
+global.linkyt = 'gak ada'
+global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 farhan ganz'
+global.linkgc = 'https://chat.whatsapp.com/HdpWPPVdtejKWepn0wllRS'
+global.linkig = 'gak ada'
 global.deslink = ''
-global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
+global.logo = 'https://telegra.ph/file/45e5b59f32614a0ef7665.jpg'
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@kahfixd01'
+global.bodlink = 'Gak ada'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -52,7 +52,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62-853-8016-6282'
+global.phn = '+62 882-0064-85504'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
